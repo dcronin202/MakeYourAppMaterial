@@ -34,3 +34,18 @@ Your job will be to take the user feedback in the UI Review node, and implement 
 * Spend time exploring the current state of the app, looking for ways it could be improved. The app will need multiple improvements. Be sure to look specifically at issues called out in the UI Review.
 * Execute the improvements!
 * Make a single GitHub repo with your code for the app and submit it through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
+
+## Screenshots
+
+### Starting Design
+
+![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/main_old.png)  ![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/detail_old.png)
+
+### Updated Design - Phone
+
+![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/main_new.png)  ![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/detail_new.png)
+
+### Updated Design - Tablet (Landscape)
+
+![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/main_tablet_landscape.png)  
+![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/detail_tablet_landscape.png)
