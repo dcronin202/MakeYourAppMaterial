@@ -48,3 +48,4 @@ Your job will be to take the user feedback in the UI Review node, and implement 
 ### Updated Design - Tablet (Landscape)
 
 ![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/main_tablet_landscape.png)  
+![](https://github.com/dcronin202/MakeYourAppMaterial/blob/master/screenshots/detail_tablet_landscape.png)  
